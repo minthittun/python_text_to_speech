@@ -2,6 +2,13 @@
 
 This is a simple web application that converts text into speech using the gTTS (Google Text-to-Speech) library. The app is built with Flask, a lightweight web framework for Python.
 
+## Directory Structure
+
+    ├── static
+    ├── templates
+    ├── requirements.txt
+    ├── server.py
+
 ### Features
 1) **Text-to-Speech Conversion:** The web app takes input text and converts it into speech using the gTTS (Google Text-to-Speech) library.
 2) **Language Detection:** The app can automatically detect the language of the input text.
