@@ -15,7 +15,7 @@ This is a simple web application that converts text into speech using the gTTS (
 1) Clone this repository to your local machine:
 ```
 git clone https://github.com/minthittun/python_text_to_speech.git
-cd text-to-speech-web-app
+cd python_text_to_speech
 ```
 
 2) Create a virtual environment (optional but recommended):
