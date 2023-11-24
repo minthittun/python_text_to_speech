@@ -51,5 +51,3 @@ This will ensure that the language detection works accurately for each word.
 6) The final MP3 audio file will be presented to you, and you can listen to the speech directly on the web page.
 
 By adding spaces between words from different languages, you help the app correctly identify the language of each word, leading to more accurate text-to-speech conversions.
-
-Feel free to use this updated section in your Markdown document. If you have any further requests or need more assistance, just let me know!
